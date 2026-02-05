@@ -17,12 +17,12 @@ Since this is a little short, here are some fun facts about me:
 
 
 I plan to cover a fairly wide variety of topics here, including but not limited to:
-Robotics (in many forms)
-Linux/NixOS
-Onshape,
-Low-level code,
-Technical art,
-And whatever else catches my interest.
+- Robotics (in many forms)
+- Linux/NixOS
+- Onshape,
+- Low-level code,
+- Technical art,
+- And whatever else catches my interest.
 
 This site is still somewhat new since it is meant to replace my old site, which was little more than glorified file hosting, but I plan to have some posts out soon, so keep an eye out.
 
