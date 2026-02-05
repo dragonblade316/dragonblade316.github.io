@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Every blog needs its first post
+author: Dragonblade316
 date: 2026-02-04 16:36 -0700
 ---
 
