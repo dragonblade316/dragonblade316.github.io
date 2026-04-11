@@ -20,7 +20,7 @@ An amazing robot requires both amazing hardware and amazing software. Having one
 ## Tech stack
 Okay, enough of me ranting, here is the interesting stuff. I've been thinking about stuff like this for a while and have decided to use the following stack of tools for the competition.
 
-Onshape:  
+[Onshape](https://onshape.com):  
 Onshape, at the moment, is my favorite CAD software. The fact that it is incredibly extensible through community feature scripts and apps has made several tasks quite simple.
 
 [Copper-rs](https://github.com/copper-project/copper-rs):  
